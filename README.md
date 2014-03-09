@@ -1,4 +1,4 @@
 granit
 ======
 
-first test
+Yay my first repository
